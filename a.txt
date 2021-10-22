@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sad asdgi
+=======
+flksdjfkl;sjafkl;jsalk;fj;askljskbdkajsbgit 
+>>>>>>> new
